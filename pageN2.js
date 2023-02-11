@@ -10,7 +10,7 @@ function myFunctionForInputTwo(){
     document.getElementById("p2").innerHTML = y;
     // console.log('hello world!')
 }
-myFunctionForInputTwo()
+
  function myFunctionForInputFour (){
     var t = document.getElementById("field3").value;
     document.getElementById("p3").innerHTML = t
